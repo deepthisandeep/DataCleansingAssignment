@@ -11,7 +11,7 @@ CookBook.md
 Dear Peer Reviewer/Friend/Course 
 Instructions for the reviewer
 
-Checkout the code using 'git checkout https://github.com/deepthisandeep/DataCleansingAssignment.git TargetDirectory'
+Checkout the code using 'git checkout https://github.com/deepthisandeep/DataCleansingAssignment.git to TargetDirectory'
 
 Download the data set, https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
